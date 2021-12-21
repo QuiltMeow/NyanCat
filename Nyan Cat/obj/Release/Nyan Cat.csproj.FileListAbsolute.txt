@@ -1,0 +1,13 @@
+G:\VSProject\Nyan Cat\Nyan Cat\bin\Release\Nyan Cat.exe.config
+G:\VSProject\Nyan Cat\Nyan Cat\bin\Release\Nyan Cat.exe
+G:\VSProject\Nyan Cat\Nyan Cat\bin\Release\Nyan Cat.pdb
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.csprojAssemblyReference.cache
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Interop.WMPLib.dll
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.csproj.ResolveComReference.cache
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan_Cat.NyanInfo.resources
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan_Cat.NyanForm.resources
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan_Cat.Properties.Resources.resources
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.csproj.GenerateResource.cache
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.csproj.CoreCompileInputs.cache
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.exe
+G:\VSProject\Nyan Cat\Nyan Cat\obj\Release\Nyan Cat.pdb
